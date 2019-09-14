@@ -14,11 +14,11 @@
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### 学术经历 
+-
 
 
-
-### Contact
-我的知乎认证账号请点击[gianluigi chen](https://www.zhihu.com/people/chen-tian-bao-1/activities).
-
+### 联系方式
+个人知乎认证账号请点击[gianluigi chen](https://www.zhihu.com/people/chen-tian-bao-1/activities).
+个人微信公众号请点击...
 
 
