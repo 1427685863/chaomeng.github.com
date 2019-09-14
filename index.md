@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## 个人简介
 
-You can use the [editor on GitHub](https://github.com/1427685863/chaomeng.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+北京邮电大学网络技术研究院在读博士生。
+主要研究方向：隐私安全。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 教育背景
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+2019.9-       博士生 网络技术研究院,北京邮电大学; 专业:计算机科学与技术; 导师:苏森教授
+2017.9-2019.7 硕士 信息学院,北京林业大学; 专业:软件工程
+2013.9-2017.7 学士 信息学院,北京林业大学; 专业:计算机科学与技术
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 学术经历 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1427685863/chaomeng.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+我的知乎认证账号请点击[gianluigi chen](https://www.zhihu.com/people/chen-tian-bao-1/activities).
+
+
+
