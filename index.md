@@ -19,6 +19,6 @@
 ### 联系方式
 个人知乎认证账号请点击[gianluigi chen](https://www.zhihu.com/people/chen-tian-bao-1/activities).
 
-个人微信公众号请点击...
+个人微信公众号请点击[计算机顶会速递](https://mp.weixin.qq.com/s/ptV9s1MywMtKgXmQfLforA).
 
 
